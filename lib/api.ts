@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://y8c804ocock0go048g4w4s00.46.202.194.55.sslip.io/api";
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://m8cgkg40400sg0kckw4804w4.46.202.194.55.sslip.io";
 
 interface ApiResponse<T> {
   data?: T;
